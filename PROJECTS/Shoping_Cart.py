@@ -1,4 +1,4 @@
-#Creat a Shoping Cart Program
+#Creat a Shoping Cart Programs
 
 item = input('Please Enter  Item Name :')
 price= float(input('Please Enter Prices Which items You Bought :'))
