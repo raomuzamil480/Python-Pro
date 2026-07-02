@@ -1,0 +1,3 @@
+# Build in funtion in python like Math Time etc .....
+import  Code
+print(Code.Sum(1, 2))
